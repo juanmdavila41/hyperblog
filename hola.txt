@@ -3,3 +3,5 @@ Hola a todos
 son Juan Manuel
 
 tengo 23 años
+
+trabajo como ingeniero de datos en ia aplicada
