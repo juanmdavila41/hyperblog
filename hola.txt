@@ -6,6 +6,8 @@ tengo 23 años
 
 trabajo como ingeniero de datos en ia aplicada
 
+experimiento 1
+
 master 1
 
 master 2
