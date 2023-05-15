@@ -8,4 +8,6 @@ trabajo como ingeniero de datos en ia aplicada
 
 master 1
 
+master 2
+
 hoy hablaremos de su vida
